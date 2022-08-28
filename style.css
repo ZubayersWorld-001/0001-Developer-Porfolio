@@ -26,9 +26,7 @@ section{
 }
 .half-width-2 img{
     width:80%;
-    height: auto;
-    
-    
+    height: auto;   
 }
 .link-button{
     text-decoration: none;
@@ -46,4 +44,7 @@ section{
     background-image: url(Images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.orange-color{
+    color: orange;
 }
