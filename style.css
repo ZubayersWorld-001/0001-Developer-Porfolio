@@ -21,6 +21,7 @@ section{
 .half-width-1{
     width: 50%;
     padding-left: 2%;
+    padding-right: 20px;
     text-align: justify;
 }
 .half-width-2{
@@ -74,4 +75,8 @@ section{
     background-image: url(Images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    padding-bottom: 50px;
+}
+footer{
+    text-align: center;
 }
